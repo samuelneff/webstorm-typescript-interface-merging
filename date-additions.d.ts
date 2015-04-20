@@ -1,0 +1,4 @@
+
+interface Date {
+    toStartOfQuarter():Date;
+}
